@@ -13,3 +13,4 @@ Tampermonkey script to rename playlists on https://open.spotify.com
 
 ## Known issues
  - Left column not refreshing properly (need to clear page cache)
+ - `Edit` button shows up after 1000ms delay on a new page load (use [MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver) instead?)
