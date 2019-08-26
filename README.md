@@ -1,5 +1,5 @@
 # openspotify-rename-playlists
-Tampermonkey script to rename playlists on https://open.spotify.com  
+Tampermonkey script to rename playlists on https://open.spotify.com (Spotify web player)
 *(should be more or less compatible with other scripts managers as well)*
 
 ## Usage
